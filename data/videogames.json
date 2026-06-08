@@ -1,0 +1,4 @@
+[
+  {"type":"digital","title":"GOD OF WAR","price":70000.0,"platform":"PlayStation 5","stock":6,"genre":"Accion","sizeGB":50.0,"downloadPlatform":"PlayStation Store"},
+  {"type":"physical","title":"Hollow Knight","price":35000.0,"platform":"PC","stock":5,"genre":"Metroidvania","condition":"nuevo","distributor":"PC Store"}
+]

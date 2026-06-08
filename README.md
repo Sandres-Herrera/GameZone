@@ -1,5 +1,5 @@
-# GameZone
+# Parcial-final-programacion-2-
 
-Integrantes:
--Santiago Herrera
--Omar Heredia
+integrantes :
+Omar sebastian gamez heredia, 
+santiago herrera acuña
